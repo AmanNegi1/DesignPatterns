@@ -1,0 +1,15 @@
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\Static_Control_Flow.exe
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\Static_Control_Flow.deps.json
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\Static_Control_Flow.runtimeconfig.json
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\Static_Control_Flow.dll
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\ref\Static_Control_Flow.dll
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\bin\Debug\net6.0\Static_Control_Flow.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.csproj.AssemblyReference.cache
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.AssemblyInfoInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.AssemblyInfo.cs
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.csproj.CoreCompileInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.dll
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\ref\Static_Control_Flow.dll
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\Static_Control_Flow\obj\Debug\net6.0\Static_Control_Flow.genruntimeconfig.cache

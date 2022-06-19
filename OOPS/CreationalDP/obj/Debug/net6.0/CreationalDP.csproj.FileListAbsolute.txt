@@ -1,0 +1,15 @@
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\CreationalDP.exe
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\CreationalDP.deps.json
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\CreationalDP.runtimeconfig.json
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\CreationalDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\ref\CreationalDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\bin\Debug\net6.0\CreationalDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.csproj.AssemblyReference.cache
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.AssemblyInfoInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.AssemblyInfo.cs
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.csproj.CoreCompileInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\ref\CreationalDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\CreationalDP\obj\Debug\net6.0\CreationalDP.genruntimeconfig.cache

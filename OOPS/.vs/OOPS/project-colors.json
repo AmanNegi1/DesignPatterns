@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc5d97c6-c71f-4318-9411-d8a646fd25fb": {
+      "ProjectGuid": "cc5d97c6-c71f-4318-9411-d8a646fd25fb",
+      "DisplayName": "OOPS",
+      "ColorIndex": 0
+    },
+    "e4b17faf-bd0b-4ab5-b6bf-01101c013f46": {
+      "ProjectGuid": "e4b17faf-bd0b-4ab5-b6bf-01101c013f46",
+      "DisplayName": "Static_Control_Flow",
+      "ColorIndex": 1
+    },
+    "a479ad4e-4c2b-4b0a-9af6-f5a020be595f": {
+      "ProjectGuid": "a479ad4e-4c2b-4b0a-9af6-f5a020be595f",
+      "DisplayName": "SOLID_Design_Principle",
+      "ColorIndex": 2
+    },
+    "4f64252a-b4d4-4089-8f2f-28cdb197b3e7": {
+      "ProjectGuid": "4f64252a-b4d4-4089-8f2f-28cdb197b3e7",
+      "DisplayName": "CreationalDP",
+      "ColorIndex": 3
+    },
+    "2888400a-495c-4c62-b3e1-d4a6e13cce5d": {
+      "ProjectGuid": "2888400a-495c-4c62-b3e1-d4a6e13cce5d",
+      "DisplayName": "StructuralDP",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f0acc657-6827-41b1-9505-d449f69e9bf7": {
+      "ProjectGuid": "f0acc657-6827-41b1-9505-d449f69e9bf7",
+      "DisplayName": "BehaviouralDP",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

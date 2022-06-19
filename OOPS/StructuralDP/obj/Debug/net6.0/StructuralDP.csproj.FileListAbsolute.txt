@@ -1,0 +1,15 @@
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\StructuralDP.exe
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\StructuralDP.deps.json
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\StructuralDP.runtimeconfig.json
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\StructuralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\ref\StructuralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\bin\Debug\net6.0\StructuralDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.csproj.AssemblyReference.cache
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.AssemblyInfoInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.AssemblyInfo.cs
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.csproj.CoreCompileInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\ref\StructuralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\StructuralDP\obj\Debug\net6.0\StructuralDP.genruntimeconfig.cache

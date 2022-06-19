@@ -1,0 +1,15 @@
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\bin\Debug\net6.0\BehaviouralDP.exe
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\bin\Debug\net6.0\BehaviouralDP.deps.json
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\bin\Debug\net6.0\BehaviouralDP.runtimeconfig.json
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\bin\Debug\net6.0\BehaviouralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\bin\Debug\net6.0\BehaviouralDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.csproj.AssemblyReference.cache
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.AssemblyInfoInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.AssemblyInfo.cs
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.csproj.CoreCompileInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\ref\BehaviouralDP.dll
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\BehaviouralDP.genruntimeconfig.cache
+C:\Users\Aman_Negi\source\repos\OOPS\BehaviouralDP\obj\Debug\net6.0\refint\BehaviouralDP.dll

@@ -1,0 +1,15 @@
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.csproj.AssemblyReference.cache
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.AssemblyInfoInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.AssemblyInfo.cs
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\OOPS.exe
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\OOPS.deps.json
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\OOPS.runtimeconfig.json
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\OOPS.dll
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\ref\OOPS.dll
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\bin\Debug\net6.0\OOPS.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.dll
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\ref\OOPS.dll
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.pdb
+C:\Users\Aman_Negi\source\repos\OOPS\OOPS\obj\Debug\net6.0\OOPS.genruntimeconfig.cache
